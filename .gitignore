@@ -7,7 +7,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Package manager lock files (keep one, ignore others)
-package-lock.json
 yarn.lock
 # Uncomment the next line if you're using npm primarily
 # pnpm-lock.yaml
