@@ -1,72 +1,160 @@
 ---
 layout: ../layouts/MdLayout.astro
-title: "Terms & Conditions"
-author: "Matthew Phillips"
-date: "09 Aug 2023"
+title: "Terms of Use"
+author: "TechForce OÜ"
+date: "May 26, 2025"
 ---
 
-Welcome to Astroship! We're excited to have you as a user of our Software-as-a-Service (SaaS) platform. Before you get started, please take a moment to read through our Terms and Conditions outlined below.
+# Terms of Use
+**Last updated: May 26, 2025**
 
-By using our platform, you agree to be bound by these terms. If you do not agree with any part of these terms, please refrain from using Astroship.
+**TechForce OÜ**  
+Registry Code: 16238287  
+Registered Address: Sepapaja tn 6, Tallinn, Estonia 15551  
+Email: support@techforce.pro
 
-## 1. Account Creation and Usage
+**Important:** These Terms of Use constitute a legally binding agreement between you and TechForce OÜ. Please read them carefully before using the Carbsy application.
 
-1.1. You must be at least 18 years old to use Astroship and create an account.
+## 1. Acceptance of Terms
 
-1.2. You are responsible for maintaining the confidentiality of your account credentials (username and password) and ensuring their proper use. Any activity on your account is your responsibility.
+By downloading, installing, or using the Carbsy mobile application (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
-1.3. You agree not to use Astroship for any illegal or unauthorized purposes and to comply with all applicable laws and regulations.
+## 2. Description of Service
 
-## 2. Service Usage
+Carbsy is a mobile application that provides AI-powered carbohydrate tracking and nutritional analysis services. The App allows users to track their daily carbohydrate intake through photo recognition, voice input, and manual entry.
 
-2.1. Astroship provides a web-based SaaS platform for [describe the core service(s) provided by Astroship].
+### 2.1 Service Features
+- Food recognition through photos
+- Voice-to-text meal logging
+- Manual food entry
+- Nutritional analysis and carbohydrate calculations
+- Daily tracking and progress visualization
 
-2.2. You understand that your use of Astroship may be subject to limitations, such as storage space, number of users, or other usage constraints.
+## 3. Subscription Services and Billing
 
-2.3. You agree not to interfere with the proper functioning of Astroship or attempt to gain unauthorized access to any part of our platform.
+### 3.1 Free Trial
+We may offer a free trial period for premium features. The free trial period and its terms will be clearly communicated in the App. You may cancel at any time during the free trial period without charge.
 
-2.4. We reserve the right to modify, suspend, or discontinue any part of Astroship without prior notice.
+### 3.2 Paid Subscriptions
+Premium features are available through paid subscription plans:
 
-## 3. Data and Privacy
+- Subscription fees are charged through your App Store or Google Play account
+- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You can manage and cancel subscriptions through your App Store or Google Play account settings
 
-3.1. We respect your privacy and handle your personal data in accordance with our Privacy Policy [link to the Privacy Policy].
+### 3.3 Refund Policy
+Refunds are handled according to the policies of the App Store (Apple) or Google Play Store (Google) where you purchased the subscription. We do not process refunds directly.
 
-3.2. By using Astroship, you grant us the right to collect and process data related to your usage of the platform.
+## 4. User Responsibilities
 
-3.3. We may use aggregated and anonymized data for statistical and analytical purposes.
+### 4.1 Eligible Use
+You must be at least 13 years old to use this App. If you are under 18, you must have parental consent to use the App.
 
-## 4. Intellectual Property
+### 4.2 Prohibited Uses
+You agree not to:
 
-4.1. All content and materials provided on Astroship, including but not limited to software, text, graphics, logos, images, and trademarks, are the property of Astroship or its licensors.
+- Use the App for any unlawful purpose or in violation of these Terms
+- Attempt to reverse engineer, decompile, or disassemble the App
+- Upload malicious content or attempt to compromise the App's security
+- Use the App to harass, abuse, or harm another person
+- Attempt to gain unauthorized access to our systems or other users' data
+- Use automated systems or bots to access the App
 
-4.2. You may not copy, modify, distribute, or reproduce any part of Astroship without our explicit written consent.
+### 4.3 Content Responsibility
+You are responsible for all content you submit through the App, including photos, voice recordings, and text. You represent that you have the right to submit such content.
 
-## 5. Payment and Subscription
+## 5. Medical Disclaimer
 
-5.1. Astroship may require payment for certain services or features. By subscribing to our paid services, you agree to pay the fees associated with your chosen plan.
+**Important Medical Disclaimer:** The Carbsy App is not a medical device and is not intended to diagnose, treat, cure, or prevent any disease. The nutritional information provided is for informational purposes only and should not replace professional medical advice. Always consult with a healthcare professional before making dietary changes, especially if you have diabetes or other medical conditions.
 
-5.2. Subscription fees are non-refundable unless otherwise stated in our Refund Policy [link to the Refund Policy].
+### 5.1 No Medical Advice
+The App provides nutritional information and carbohydrate tracking tools but does not provide medical advice. You should not rely solely on the App for managing medical conditions.
 
-5.3. We reserve the right to modify our subscription fees, but any changes will be communicated to you in advance.
+### 5.2 Accuracy Limitations
+While we strive for accuracy, nutritional calculations are estimates and may not be 100% accurate. Food databases and AI recognition may contain errors.
 
-## 6. Disclaimer of Warranties
+## 6. Intellectual Property
 
-6.1. Astroship is provided "as is" without any warranties or guarantees, whether express or implied.
+### 6.1 Our Rights
+The App, including all content, features, and functionality, is owned by TechForce OÜ and protected by international copyright, trademark, and other intellectual property laws.
 
-6.2. We do not warrant that Astroship will be error-free, secure, or uninterrupted.
+### 6.2 Your License
+We grant you a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes in accordance with these Terms.
 
-## 7. Limitation of Liability
+## 7. Privacy and Data
 
-7.1. In no event shall Astroship or its affiliates be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use our platform.
+Your privacy is important to us. Please review our Privacy Policy, which explains how we collect, use, and protect your information. The Privacy Policy is incorporated into these Terms by reference.
 
-## 8. Termination
+## 8. Third-Party Services
 
-8.1. You may terminate your account at any time by following the account closure process.
+The App uses various third-party services, including AI-powered analysis services for nutritional calculations. These services are governed by their own terms and privacy policies. We are not responsible for the practices of these third-party services.
 
-8.2. Astroship reserves the right to terminate or suspend your account for any violation of these Terms and Conditions.
+## 9. Disclaimers
 
-## 9. Governing Law
+### 9.1 "As Is" Service
+The App is provided "as is" and "as available" without warranties of any kind, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-9.1. These Terms and Conditions shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.
+### 9.2 Service Availability
+We do not guarantee that the App will be available at all times or that it will be free from errors, viruses, or other harmful components.
 
-By using Astroship, you acknowledge that you have read and understood these Terms and Conditions, and you agree to be bound by them. If you have any questions or concerns, please contact us at [your contact email].
+## 10. Limitation of Liability
+
+To the maximum extent permitted by law, TechForce OÜ shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or related to your use of the App.
+
+## 11. Indemnification
+
+You agree to indemnify and hold harmless TechForce OÜ from any claims, damages, losses, or expenses arising from your use of the App or violation of these Terms.
+
+## 12. Termination
+
+### 12.1 Termination by You
+You may stop using the App at any time. To cancel subscriptions, use your App Store or Google Play account settings.
+
+### 12.2 Termination by Us
+We may suspend or terminate your access to the App at any time for violations of these Terms or for any other reason.
+
+## 13. Updates and Changes
+
+### 13.1 App Updates
+We may update the App from time to time to improve functionality, add features, or fix issues. Some updates may be required for continued use.
+
+### 13.2 Terms Updates
+We may modify these Terms at any time. We will notify you of material changes through the App or other reasonable means. Continued use after changes constitutes acceptance of the new Terms.
+
+## 14. Governing Law and Jurisdiction
+
+These Terms are governed by the laws of Estonia. Any disputes arising from these Terms or your use of the App shall be resolved in the courts of Estonia.
+
+## 15. European Union Rights
+
+If you are a consumer in the European Union, you have certain rights under EU consumer protection laws that cannot be limited by these Terms, including the right to withdraw from distance contracts within 14 days.
+
+## 16. App Store Terms
+
+### 16.1 Apple App Store
+If you downloaded the App from the Apple App Store, you acknowledge that:
+
+- These Terms are between you and TechForce OÜ, not Apple
+- Apple is not responsible for the App or its content
+- Apple has no obligation to provide support for the App
+- Apple is a third-party beneficiary of these Terms
+
+### 16.2 Google Play Store
+If you downloaded the App from Google Play Store, you acknowledge that Google is not responsible for the App and has no obligations regarding the App.
+
+## 17. Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full force and effect.
+
+## 18. Contact Information
+
+If you have any questions about these Terms, please contact us:
+
+**TechForce OÜ**  
+Email: legal@techforce.pro  
+Subject: Terms of Use Inquiry
+
+## 19. Entire Agreement
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and TechForce OÜ regarding the use of the App.

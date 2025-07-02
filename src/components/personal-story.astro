@@ -1,0 +1,77 @@
+---
+import Badge from "@components/ui/badge.astro";
+import Link from "@components/ui/link.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<div class="max-w-4xl mx-auto flex flex-col items-center justify-center mt-24">
+  <Badge color="brand">MEET THE CREATOR</Badge>
+  <h2 class="text-4xl lg:text-5xl font-semibold lg:tracking-tight mt-4 text-center">
+    Built from Personal Experience
+  </h2>
+  <p class="text-lg mt-4 text-slate-600 text-center [text-wrap:pretty] max-w-2xl">
+    Carbsy was created by someone who understands the daily challenges of managing diabetes 
+    and the need for simple, effective solutions.
+  </p>
+</div>
+
+<div class="max-w-4xl mx-auto mt-16 mb-24">
+  <div class="flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-12">
+    <!-- Circle Avatar -->
+    <div class="flex-shrink-0">
+      <div class="w-32 h-32 lg:w-40 lg:h-40 rounded-full overflow-hidden border-4 border-brand-accent/20 shadow-lg">
+        <img
+          src="/src/assets/employee.jpg"
+          alt="Kirill Gusev - Creator of Carbsy"
+          class="w-full h-full object-cover"
+        />
+      </div>
+    </div>
+
+    <!-- Story Content -->
+    <div class="flex-1 text-center lg:text-left">
+      <div class="space-y-6">
+        <div>
+          <h3 class="text-2xl lg:text-3xl font-semibold text-brand-primary mb-2">
+            Hi, I'm Kirill Gusev
+          </h3>
+          <p class="text-lg text-brand-accent font-medium">
+            Creator of Carbsy
+          </p>
+        </div>
+
+        <div class="text-slate-600 space-y-4 [text-wrap:pretty]">
+          <p>
+            As someone who has type 1 diabetes and works as a software engineer, I've always 
+            wanted to use technology to make healthcare easier. Carbsy comes from my own 
+            experiences and my desire to help others like me understand and manage their carbs 
+            and easily seamlessly get info that is very important for me.
+          </p>
+        </div>
+
+        <!-- Contact Links -->
+        <div class="flex flex-col sm:flex-row items-center gap-4 pt-4">
+          <Link 
+            href="https://www.linkedin.com/in/kirill-gusev-454b2037/" 
+            style="outline" 
+            size="md"
+            class="inline-flex items-center gap-2"
+          >
+            <Icon name="bx:bxl-linkedin" class="w-5 h-5" />
+            <span>Connect on LinkedIn</span>
+          </Link>
+          
+          <Link 
+            href="mailto:kirill@carbsyapp.com" 
+            style="primary" 
+            size="md"
+            class="inline-flex items-center gap-2"
+          >
+            <Icon name="bx:envelope" class="w-5 h-5" />
+            <span>Send Email</span>
+          </Link>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 
