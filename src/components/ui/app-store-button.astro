@@ -1,0 +1,33 @@
+---
+import { Picture } from "astro:assets";
+import appStoreImage from "../../assets/download-apple-store.svg";
+
+interface Props {
+  class?: string;
+  href?: string;
+}
+
+const { 
+  class: className = "", 
+  href = "https://apps.apple.com/us/app/carbsy-ai-carb-tracker/id6745561317" 
+} = Astro.props;
+---
+
+<a
+  href={href}
+  target="_blank"
+  rel="noopener"
+  class={`inline-block transition-transform hover:scale-105 focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-brand-accent focus-visible:outline-none focus-visible:shadow-outline-brand-accent rounded-lg ${className}`}
+>
+  <div style="width: 144px; height: 38px; display: flex; align-items: center; justify-content: center;">
+    <Picture
+      src={appStoreImage}
+      alt="Download on the App Store"
+      formats={["avif", "webp"]}
+      sizes="(max-width: 768px) 112px, 128px"
+      widths={[96, 112, 128, 144]}
+      loading="lazy"
+      class="h-full w-auto object-contain"
+    />
+  </div>
+</a> 

@@ -3,7 +3,11 @@ import { ViewTransitions } from "astro:transitions";
 import { SEO } from "astro-seo";
 import Footer from "@components/footer.astro";
 import Navbar from "@components/navbar/navbar.astro";
-import "@fontsource-variable/inter/index.css";
+import "@fontsource/fredoka/300.css";
+import "@fontsource/fredoka/400.css";
+import "@fontsource/fredoka/500.css";
+import "@fontsource/fredoka/600.css";
+import "@fontsource/fredoka/700.css";
 
 interface Props {
   title?: string;
@@ -14,14 +18,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 
 const resolvedImageWithDomain = new URL(
   "/opengraph.jpg",
-  Astro.site
+  Astro.site,
 ).toString();
 
 const { title, footerMargin = true } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "Astroship Pro"
-  : "Astroship Pro - SAAS Startup Website Template for Astro";
+  ? title + " | " + "Carbsy"
+  : "Carbsy - AI-Powered Carb Tracker for Diabetes & Keto";
 ---
 
 <!doctype html>
@@ -34,22 +38,22 @@ const makeTitle = title
 
     <SEO
       title={makeTitle}
-      description="Astroship Pro - SAAS & Startup Website Template for Astro built with TailwindCSS."
+      description="Estimate carbs in seconds using your voice, camera, or text. Carbsy is the easiest way to track carbs, net carbs, and macros for diabetes and keto diets."
       canonical={canonicalURL}
       twitter={{
-        creator: "@surjithctly",
-        site: "@web3templates",
+        creator: "@carbsyapp",
+        site: "@carbsyapp",
         card: "summary_large_image",
       }}
       openGraph={{
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `Astroship Pro - SAAS &Startup Website Template for Astro`,
+          title: `Carbsy - AI-Powered Carb Tracker for Diabetes & Keto`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "Astroship Homepage Screenshot",
+          alt: "Carbsy App Screenshot",
         },
       }}
     />
