@@ -1,10 +1,8 @@
 ---
 import Badge from "@components/ui/badge.astro";
 import { Picture } from "astro:assets";
-import FeatureVoice from "../assets/features/feature-voice.png";
-import FeatureCamera from "../assets/features/feature-camera.png";
-import FeatureDailyCarbs from "../assets/features/feature-daily-carbs.png";
-import FeatureDailyMacros from "../assets/features/feature-daily-macros.png";
+import FeatureVoicePortrait from "../assets/features/feature-voice-portrait.png";
+import FeatureDailyMacrosPortrait from "../assets/features/feature-daily-macros-portrait.png";
 import { Icon } from "astro-icon/components";
 import Link from "@components/ui/link.astro";
 
@@ -12,10 +10,10 @@ const { nomargin } = Astro.props;
 ---
 
 <div
-  class:list={[
+  class={[
     "max-w-4xl mx-auto flex flex-col items-center justify-center",
-    !nomargin && "mt-24",
-  ]}
+    !nomargin && "mt-24"
+  ].filter(Boolean).join(" ")}
 >
   <Badge color="brand">AI-POWERED NUTRITION</Badge>
   <h2 class="text-4xl lg:text-5xl font-semibold lg:tracking-tight mt-4 text-center">
@@ -29,25 +27,17 @@ const { nomargin } = Astro.props;
   </p>
 </div>
 
-<div class="grid md:grid-cols-2 py-10">
-  <div class="grid place-items-center">
-    <div class="flex gap-4">
-      <Picture
-        src={FeatureVoice}
-        alt="Carbsy AI Voice Recognition"
-        formats={["avif", "webp"]}
-        loading="lazy"
-      />
-      <Picture
-        src={FeatureCamera}
-        alt="Carbsy AI Camera Recognition"
-        formats={["avif", "webp"]}
-        loading="lazy"
-      />
-    </div>
+<div class="grid md:grid-cols-2 gap-8 py-10 items-center mt-16">
+  <div class="flex justify-center">
+    <Picture
+      src={FeatureVoicePortrait}
+      alt="Carbsy AI Voice Recognition (iPhone screenshot)"
+      formats={["avif", "webp"]}
+      loading="lazy"
+      class="max-w-xs w-full"
+    />
   </div>
-
-  <div class="grid place-items-center">
+  <div class="flex justify-center">
     <div class="max-w-lg">
       <Badge color="brand" class="-ml-px">Natural AI Understanding</Badge>
       <h3 class="text-2xl font-medium mt-4 [text-wrap:balance]">
@@ -58,23 +48,17 @@ const { nomargin } = Astro.props;
         tell Carbsy "grilled salmon with rice and broccoli" and get instant nutrition 
         breakdowns. Our AI understands natural language, photos, and even complex meals.
       </p>
-
       <ul class="grid mt-6 text-left gap-y-4">
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Voice-to-Nutrition in Seconds</span>
         </li>
-
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Photo Recognition & Analysis</span>
         </li>
-
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Natural Language Processing</span>
         </li>
       </ul>
@@ -104,25 +88,17 @@ const { nomargin } = Astro.props;
   </div>
 </div>
 
-<div class="grid md:grid-cols-2 py-10">
-  <div class="grid place-items-center pb-10 md:pb-0 md:order-2">
-    <div class="flex gap-4">
-      <Picture
-        src={FeatureDailyCarbs}
-        alt="Carbsy Daily Carbs Tracking"
-        formats={["avif", "webp"]}
-        loading="lazy"
-      />
-      <Picture
-        src={FeatureDailyMacros}
-        alt="Carbsy Daily Macros Tracking"
-        formats={["avif", "webp"]}
-        loading="lazy"
-      />
-    </div>
+<div class="grid md:grid-cols-2 gap-8 py-10 items-center">
+  <div class="flex justify-center pb-10 md:pb-0 md:order-2">
+    <Picture
+      src={FeatureDailyMacrosPortrait}
+      alt="Carbsy Daily Macros Tracking (iPhone screenshot)"
+      formats={["avif", "webp"]}
+      loading="lazy"
+      class="max-w-xs w-full"
+    />
   </div>
-
-  <div class="grid place-items-center">
+  <div class="flex justify-center">
     <div class="max-w-lg">
       <Badge color="brand" class="-ml-px">Complete Nutrition Tracking</Badge>
       <h3 class="text-2xl font-medium mt-4 [text-wrap:balance]">
@@ -136,17 +112,14 @@ const { nomargin } = Astro.props;
       <ul class="grid mt-6 text-left gap-y-4">
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Net Carbs for Keto Diets</span>
         </li>
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Diabetes-Friendly Tracking</span>
         </li>
         <li class="flex items-center gap-3 text-neutral-800">
           <Icon name="ph:check-circle-fill" class="w-5 h-5" />
-
           <span class="text-sm">Complete Macro Breakdown</span>
         </li>
       </ul>
