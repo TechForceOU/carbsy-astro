@@ -2,17 +2,17 @@
 layout: ../layouts/MdLayout.astro
 title: "Privacy Policy"
 author: "TechForce OÜ"
-date: "December 2024"
+date: "July 3 2025"
 ---
 
 # PRIVACY POLICY
 
-**Last updated: December 2024**
+**Last updated: July 3, 2025**
 
 **TechForce OÜ**  
-Registry Code: [Your Registry Code]  
-Registered Address: Estonia  
-Email: support@techforce.pro
+Registry Code: 16238287  
+Registered Address: Sepapaja tn 6, Tallinn, Estonia 15551  
+Email: support@carbsyapp.com
 
 ## 1. INTRODUCTION
 
@@ -85,7 +85,7 @@ If you are in the European Economic Area, you have the following rights:
 - **Right to Data Portability**: You can request your data in a portable format
 - **Right to Object**: You can object to data processing for legitimate interests
 
-To exercise these rights, contact us at privacy@techforce.pro.
+To exercise these rights, contact us at privacy@carbsyapp.com.
 
 ## 8. CHILDREN'S PRIVACY
 
@@ -104,7 +104,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
 **TechForce OÜ**  
-Email: privacy@techforce.pro  
+Email: privacy@carbsyapp.com  
 Subject: Privacy Policy Inquiry
 
 ## 12. LEGAL BASIS FOR PROCESSING (GDPR)
@@ -116,4 +116,4 @@ Our legal basis for processing your data under GDPR:
 
 ## 13. DATA PROTECTION OFFICER
 
-For data protection inquiries, you can contact our designated representative at privacy@techforce.pro with the subject line "Data Protection Inquiry."
+For data protection inquiries, you can contact our designated representative at privacy@carbsyapp.com with the subject line "Data Protection Inquiry."
