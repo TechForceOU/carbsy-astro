@@ -2,11 +2,11 @@
 layout: ../layouts/MdLayout.astro
 title: "Terms of Use"
 author: "TechForce OÜ"
-date: "May 26, 2025"
+date: "August 19, 2025"
 ---
 
 # Terms of Use
-**Last updated: May 26, 2025**
+**Last updated: August 19, 2025**
 
 **TechForce OÜ**  
 Registry Code: 16238287  
@@ -158,3 +158,6 @@ Subject: Terms of Use Inquiry
 ## 19. Entire Agreement
 
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and TechForce OÜ regarding the use of the App.
+
+## 20. Rights and Terms for Apps
+This Section applies to any App that you acquire from the Apple App Store or use on an iOS device. Apple has no obligation to furnish any maintenance and support services with respect to the App. In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the App purchase price to you (if applicable) and, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App. Apple is not responsible for addressing any claims by you or any third party relating to the App or your possession and use of it, including, but not limited to: (a) product liability claims; (b) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. Apple is not responsible for the investigation, defense, settlement and discharge of any third-party claim that your possession and use of the App infringe that third party’s intellectual property rights. Apple and its subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof. You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a terrorist-supporting country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties. You must also comply with any applicable third-party terms of service when using the App.
