@@ -43,6 +43,16 @@ Premium features are available through paid subscription plans:
 ### 3.3 Refund Policy
 Refunds are handled according to the policies of the App Store (Apple) or Google Play Store (Google) where you purchased the subscription. We do not process refunds directly.
 
+### 3.4 Lifetime Purchase Option
+We offer a one-time payment option that provides unlimited carbohydrate estimations ("Lifetime Purchase"). By purchasing this option, you acknowledge and agree that:
+
+- "Lifetime" refers to the lifetime of the Carbsy product and service, not your lifetime or any guaranteed duration
+- The Lifetime Purchase grants access to unlimited estimations for as long as the App and service remain available and operational
+- We reserve the right to discontinue, modify, or sunset the App or service at any time, with or without notice
+- No refunds will be provided if the service is discontinued, except as required by applicable law or the App Store/Google Play Store policies
+- The Lifetime Purchase does not guarantee any specific features, functionality, or service levels beyond unlimited estimations
+- Future updates, features, or enhanced services may be offered separately and are not included in the Lifetime Purchase unless explicitly stated
+
 ## 4. User Responsibilities
 
 ### 4.1 Eligible Use
